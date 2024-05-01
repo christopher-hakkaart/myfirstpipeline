@@ -1,1 +1,4 @@
 repository_type: pipeline
+lint:
+    files_unchanged:
+        - CODE_OF_CONDUCT.md
